@@ -15,7 +15,7 @@ A personal project for **ENY Prints**, demonstrating backend and API development
   - REST API endpoints for products, orders, payments, and users
   - CRUD operations on inventory
   - Order checkout with discount handling
-- **API Deployed:** [Live Render API](https://tshirt-inventory.onrender.com)
+- **API Deployed:** [Live Render API](https://tshirt-inventory.onrender.com/)
 - **Frontend:** Flutter app (optional, local development)
 - **Repository:** [T-shirt Inventory Management](https://github.com/waemsiey/tshirt-inventory)
 
