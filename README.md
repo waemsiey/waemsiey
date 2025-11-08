@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi, I'm Yna Elauria 👋<br><br>I’m an aspiring backend developer passionate about **Python, REST APIs, and database-driven applications**.  <br>I enjoy building practical projects to strengthen my skills and learn best practices in software development.<br><br>- 🔭 Currently working on: **T-shirt Inventory Management API**<br>- 🌱 Learning: **FastAPI, PostgreSQL, API deployment**<br>- 💬 Ask me about: Python, backend development, databases
+# Hi, I'm Yna Elauria 👋<br>
+<br>I’m an aspiring backend developer passionate about **Python, REST APIs, and database-driven applications**.  
+I enjoy building practical projects to strengthen my skills and learn best practices in software development.<br><br>- 🔭 Currently working on: **[INVENTORY SYSTEM](https://github.com/waemsiey/tshirt-inventory)**<br>- 🌱 Learning: **FastAPI, PostgreSQL, API deployment**<br>- 💬 Ask me about: Python, backend development, databases
 
 
 ## 🌐 Socials:
