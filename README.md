@@ -1,44 +1,21 @@
-# 👋 Hi, I'm Yna Elauria
+# 💫 About Me:
+# Hi, I'm Yna Elauria 👋<br><br>I’m an aspiring backend developer passionate about **Python, REST APIs, and database-driven applications**.  <br>I enjoy building practical projects to strengthen my skills and learn best practices in software development.<br><br>- 🔭 Currently working on: **T-shirt Inventory Management API**<br>- 🌱 Learning: **FastAPI, PostgreSQL, API deployment**<br>- 💬 Ask me about: Python, backend development, databases
 
-I am a Junior Python / Backend Developer passionate about building **REST APIs** and **database-driven applications**.  
 
-I focus on clean, maintainable code and practical projects that demonstrate my backend skills.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wayeee33m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ymelauria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymelauria@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waemsiey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waemsiey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waemsiey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Featured Project: T-shirt Inventory Management
-
-A personal project for **ENY Prints**, demonstrating backend and API development skills.
-
-- **Backend:** FastAPI + SQLAlchemy + PostgreSQL  
-- **Features:**
-  - REST API endpoints for products, orders, payments, and users
-  - CRUD operations on inventory
-  - Order checkout with discount handling
-- **API Deployed:** [Live Render API](https://tshirt-inventory.onrender.com/)
-- **Frontend:** Flutter app (optional, local development)
-- **Repository:** [T-shirt Inventory Management](https://github.com/waemsiey/tshirt-inventory)
-
-> ⚠️ Note: This is a personal project using sample data.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=waemsiey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills
-
-**Languages & Frameworks:** Python, FastAPI, SQLAlchemy, PostgreSQL  
-**Tools:** Git, GitHub, Uvicorn, Postman, VSCode  
-**Other:** REST API design, database modeling, CRUD operations, JSON handling
-
----
-
-## 📫 Contact / Connect
-
-- LinkedIn: [yna-eluria](https://www.linkedin.com/in/yna-eluria/)  
-- Email: example@email.com  
-- GitHub: [https://github.com/yna-eluria](https://github.com/yna-eluria)
-
----
-
-## 📊 GitHub Stats
-
-![Yna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yna-eluria&show_icons=true&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
